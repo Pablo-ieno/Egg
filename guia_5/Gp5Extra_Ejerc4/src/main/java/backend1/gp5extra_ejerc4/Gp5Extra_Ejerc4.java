@@ -11,7 +11,7 @@ package backend1.gp5extra_ejerc4;
 public class Gp5Extra_Ejerc4 {
 
     public static void main(String[] args) {
-        Scanner leer = new Scanner(System.in).useDelimiter("\n");
+        Scanner leer = new Scanner(System.in);
         double tp1, tp2, int1, int2;
         int alumnos = 0;
         double promedio = 0;
