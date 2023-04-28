@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Gp9_Ejerc6" />
+        <module name="Gp9_Ejerc3" />
+        <module name="Gp9_Ejerc2" />
+        <module name="Gp9_Ejerc5" />
+        <module name="Gp9_Ejerc4" />
+        <module name="Gp9_Ejerc1" />
+        <module name="Gp9_EjercEx" />
+        <module name="Gp9_EjercEx1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
