@@ -65,4 +65,8 @@ public class Gp9_Ejerc1 {
         } while (opc != 8);
 
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
